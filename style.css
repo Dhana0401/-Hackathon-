@@ -107,13 +107,13 @@ h3{
     border: 13px solid rgb(22, 18, 18);
     }
 }
-@keyframes blinki {
+@keyframes blinker {
     50%{
         background-color: blanchedalmond;
     }
 }
 .black{
-    animation: blinki 1s linear infinite;
+    animation: blinker 1s linear infinite;
     height: 150px;
     border-radius: 3px;
 
